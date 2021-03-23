@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\kevin\desktop\360-18-kevinandersen123-master\360lab\360lab\main.cpp(42): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  360Lab.vcxproj -> C:\Users\kevin\Desktop\360-18-KevinAndersen123-master\360Lab\Debug\360Lab.exe
